@@ -14,7 +14,7 @@
   <remote  name="aosp"
            fetch="https://android.googlesource.com"
            review="android-review.googlesource.com"
-           revision="refs/tags/android-10.0.0_r23" />
+           revision="refs/tags/android-10.0.0_r27" />
 
   <default revision="refs/heads/lineage-17.1"
            remote="github"
@@ -359,7 +359,7 @@
   <project path="external/tinyxml" name="platform/external/tinyxml" groups="pdk" remote="aosp" />
   <project path="external/tinyxml2" name="platform/external/tinyxml2" groups="pdk" remote="aosp" />
   <project path="external/toolchain-utils" name="platform/external/toolchain-utils" remote="aosp" />
-  <project path="external/toybox" name="platform/external/toybox" groups="pdk" remote="aosp" />
+  <project path="external/toybox" name="LineageOS/android_external_toybox" groups="pdk" />
   <project path="external/tremolo" name="platform/external/tremolo" groups="pdk" remote="aosp" />
   <project path="external/turbine" name="platform/external/turbine" groups="pdk" remote="aosp" />
   <project path="external/u-boot" name="platform/external/u-boot" groups="pdk" remote="aosp" />
