@@ -31,6 +31,7 @@
     <remove-project name="LineageOS/android_packages_apps_SetupWizard" />
     <remove-project name="LineageOS/android_packages_apps_ThemePicker" />
     <remove-project name="LineageOS/android_packages_apps_Trebuchet" />
+    <remove-project name="LineageOS/android_packages_overlays_Lineage" />
     <remove-project name="LineageOS/android_vendor_lineage" />
 
     <!-- Add Altair ROM repos -->
@@ -56,6 +57,7 @@
     <project path="packages/apps/Settings" name="AltairROM/android_packages_apps_Settings" remote="altair" />
     <project path="packages/apps/ThemePicker" name="AltairROM/android_packages_apps_ThemePicker" remote="altair" />
     <project path="packages/apps/Trebuchet" name="AltairROM/android_packages_apps_Trebuchet" remote="altair" />
+    <project path="packages/overlays/Lineage" name="AltairROM/android_packages_overlays_Lineage" remote="altair" />
     <project path="vendor/altair" name="AltairROM/android_vendor_altair" remote="altair" />
     <project path="vendor/support" name="AltairROM/android_vendor_support" remote="altair" />
     <project path="vendor/themes" name="AltairROM/android_vendor_themes" remote="altair" />
