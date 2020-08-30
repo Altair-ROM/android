@@ -64,6 +64,7 @@
     <project path="packages/apps/DocumentsUI" name="AltairROM/android_packages_apps_DocumentsUI" remote="altair" />
     <project path="packages/apps/LineageParts" name="AltairROM/android_packages_apps_LineageParts" remote="altair" />
     <project path="packages/apps/Messaging" name="AltairROM/android_packages_apps_Messaging" remote="altair" />
+    <project path="packages/apps/Plugins" name="AltairROM/android_packages_apps_Plugins" remote="altair" />
     <project path="packages/apps/Settings" name="AltairROM/android_packages_apps_Settings" remote="altair" />
     <project path="packages/apps/SettingsIntelligence" name="AltairROM/android_packages_apps_SettingsIntelligence" remote="altair" />
     <project path="packages/apps/ThemePicker" name="AltairROM/android_packages_apps_ThemePicker" remote="altair" />
